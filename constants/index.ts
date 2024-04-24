@@ -20,7 +20,7 @@ export const sidebarLinks = [
         imgUrl: '/icons/Video.svg',
     },
     {
-        label: '1:1 Room',
+        label: 'Personal Room',
         route: '/personal-room',
         imgUrl: '/icons/add-personal.svg',
     }
